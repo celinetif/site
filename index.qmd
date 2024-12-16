@@ -1,0 +1,13 @@
+# Bienvenue sur notre site
+
+Nous analysons l'innovation des entreprises en France à travers les données de brevets et les compétences en data science.
+
+## Membres du groupe
+
+-   **Nom 1**
+-   **Nom 2**
+
+## Pages principales
+
+-   [Statistiques Descriptives](statistiques.qmd)
+-   [Analyse des Données](analyse.qmd)
